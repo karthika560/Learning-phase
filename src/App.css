@@ -1,0 +1,106 @@
+/*div{
+  text-align: center;
+}
+.name{
+  color: blue;
+}
+h1{
+  border:4px solid rgb(109, 212, 226);
+  border-radius: 20px 20px 20px 20px;
+  padding: 50px;
+  margin: 50px;
+  font-size: 28px;
+  font-weight: 200;
+  font-family:cursive;
+  color: rgb(141, 67, 232);
+  text-align:left;
+  letter-spacing: 2px;
+  line-height: 50px;
+  word-spacing: 2px;
+  background-color:lightpink;
+  /*width: 50;
+  height: 7vh;
+  opacity: 1;*/
+/*}
+.success{
+  color:blueviolet;
+}
+.failure{
+  color: blueviolet;
+}
+body{
+  background-color:pink;
+}
+#para{
+  color: blueviolet;
+  border:5px double rgb(67, 18, 243);
+  padding: 40px;
+  background-color: aqua;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+.App{
+  border:7px solid greenyellow;
+  /*
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content:space-around;
+  */
+  /*display: grid;
+  grid-template-columns: 1fr 1fr;
+
+}
+body{
+  background: url(O9FG4W0.jpg);
+}
+.divOne{
+  background-color:azure;
+}
+.divTwo{
+  background-color:beige;
+}
+.divThree{
+  background-color:lightsalmon;
+  grid-column: span 2;
+}
+.dashboard {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: 180px;
+  gap: 15px;
+  background-color: #000;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.card {
+  background-color: #121212;
+  border: 1px solid #222;
+  border-radius: 16px;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tall {
+  grid-row: span 2;
+}
+
+.wide {
+  grid-column: span 2;
+}
+
+.big {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+
+.card:nth-child(1) {
+  border-left: 4px solid #00ff9d;
+}
+
+.card:nth-child(4) {
+  border-top: 4px solid #8a2be2;
+}*/

@@ -1,0 +1,26 @@
+.table-container {
+  width:60%;
+  margin-left:400px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 9%;
+}
+.title {
+  margin-bottom: 20px;
+  color: #333;
+}
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #e6d8d8;
+}
+.comparison-table th {
+  background-color: #d174ba;
+  color: white;
+  padding: 12px;
+ border: 1px solid #110e0e;
+}
+.comparison-table td {
+  padding: 12px;
+  border: 1px solid #1c1717;
+}
